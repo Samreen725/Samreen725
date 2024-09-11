@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me simranc@gmail.com
 - 😄 Pronouns: Ms.
-- ⚡ Fun fact: I love the coding process.
+- ⚡ Fun fact: I love the coding process
 
 <!---
 Samreen725/Samreen725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
